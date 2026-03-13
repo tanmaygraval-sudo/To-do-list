@@ -1,0 +1,25 @@
+.header1{
+    text-align: center;
+    background-color: lightcoral;
+}
+.header2{
+    text-align: center;
+    background-color: lightskyblue;
+}
+.para{
+    background-color: bisque;
+    font-size: 20px;
+}
+.list{
+    background-color: rgb(209, 209, 114);
+    
+
+}
+
+body{
+    background-image: url("Gemini_Generated_Image_1rcor51rcor51rco.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
